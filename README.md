@@ -15,8 +15,15 @@ Last but not least, there is another scenario that we use the robot operating sy
 1. Connect your machine with Ardrone Wifi Network
 2. Run the command line: node main.js
 ~~~
+#### Odometry 
+Odometry is the use of data from moving sensors to estimate change in position over time. Odometry is used by some robots, either with legs or with wheels, to estimate their position relative to a departure point. The publisher node and topics how many node and topics work, In figure below the odom topics use for find the position of turtlebot so if we need position record odom topic that shows rotation, position and orientation.
 
 <img src="https://user-images.githubusercontent.com/70905483/173818353-bf651404-4a9c-400a-a1d7-6a6a2a421e8d.JPG" alt="drawing" width="400"/>
+
+#### First Scenario 
+In figure shows the synchronization between the unmanned aerial vehicle (UAV) and the unmanned ground vehicle (UGV) in a suitable manner. The scenario was drone following the turtlebot and landing on moving platform using node.js [15], to be more clear we provide a video showing our system in action at
+
 <img src="https://user-images.githubusercontent.com/70905483/173818503-3301694a-68dd-4142-bf28-9c3dd48ef5e2.JPG" alt="drawing" width="400"/>
+
 
 
