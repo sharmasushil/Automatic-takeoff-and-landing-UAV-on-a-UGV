@@ -42,7 +42,7 @@ The result shows the synchronization between Drone and Turtlebot. The turtlebot 
 <img src="https://user-images.githubusercontent.com/70905483/173827359-486958f7-3248-4859-bb0b-f5251b85461f.png" alt="drawing" width="250"/>
 
 
-⚠️ Please see the report file for more details \
+⚠️ Please see the **master thesis report** file for more details \
 🎥 https://youtu.be/lab5NUAJTXo
 
 
