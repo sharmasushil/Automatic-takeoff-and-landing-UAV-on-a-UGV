@@ -27,7 +27,14 @@ In figure shows the synchronization between the unmanned aerial vehicle (UAV) an
 
 The result shows the synchronization between Drone and Turtlebot. The turtlebot manually controlled via joystick (for safety reason) and drone performs autonomous landing on moblie platfrom.
 
-<img src="https://user-images.githubusercontent.com/70905483/173819908-35e4b6b6-cb8e-4ef9-8408-f772813cfb05.JPG" alt="drawing" width="400"/>
+#### Real time experiment 
+
+<img src="https://user-images.githubusercontent.com/70905483/173819908-35e4b6b6-cb8e-4ef9-8408-f772813cfb05.JPG" alt="drawing" width="200"/>
+
+#### Gazebo Simulation experiment with Fixed platform 
+
+<img src="https://user-images.githubusercontent.com/70905483/173820315-b2a5540f-60f0-46cf-8a37-f109f745261a.JPG" alt="drawing" width="200"/>
+
 
 
 
