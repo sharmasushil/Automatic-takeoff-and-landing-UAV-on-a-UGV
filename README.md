@@ -12,5 +12,7 @@ Last but not least, there is another scenario that we use the robot operating sy
 <img src="https://user-images.githubusercontent.com/70905483/173815494-ec38095f-11bb-42a1-bc28-62dcd0b16a54.JPG" alt="drawing" width="400"/>
 
 ~~~
-code 
+1. Connect your machine with Ardrone Wifi Network
+2. Run the command line: node main.js
+
 ~~~
