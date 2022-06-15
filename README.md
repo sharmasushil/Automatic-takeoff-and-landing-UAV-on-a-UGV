@@ -29,11 +29,11 @@ The result shows the synchronization between Drone and Turtlebot. The turtlebot 
 
 #### Real time experiment 
 
-<img src="https://user-images.githubusercontent.com/70905483/173819908-35e4b6b6-cb8e-4ef9-8408-f772813cfb05.JPG" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/70905483/173819908-35e4b6b6-cb8e-4ef9-8408-f772813cfb05.JPG" alt="drawing" width="300"/>
 
 #### Gazebo Simulation experiment with Fixed platform 
 
-<img src="https://user-images.githubusercontent.com/70905483/173820315-b2a5540f-60f0-46cf-8a37-f109f745261a.JPG" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/70905483/173820315-b2a5540f-60f0-46cf-8a37-f109f745261a.JPG" alt="drawing" width="400"/>
 
 
 
