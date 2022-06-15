@@ -11,3 +11,5 @@ Last but not least, there is another scenario that we use the robot operating sy
 
 ![Genera](https://user-images.githubusercontent.com/70905483/173815494-ec38095f-11bb-42a1-bc28-62dcd0b16a54.JPG)
 
+<img src="https://user-images.githubusercontent.com/70905483/173815494-ec38095f-11bb-42a1-bc28-62dcd0b16a54.JPG" alt="drawing" width="800"/>
+
