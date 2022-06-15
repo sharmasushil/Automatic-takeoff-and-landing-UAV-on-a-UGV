@@ -25,5 +25,12 @@ In figure shows the synchronization between the unmanned aerial vehicle (UAV) an
 
 <img src="https://user-images.githubusercontent.com/70905483/173818503-3301694a-68dd-4142-bf28-9c3dd48ef5e2.JPG" alt="drawing" width="400"/>
 
+The result shows the synchronization between Drone and Turtlebot. The turtlebot manually controlled via joystick (for safety reason) and drone performs autonomous landing on moblie platfrom.
+
+<img src="https://user-images.githubusercontent.com/70905483/173819908-35e4b6b6-cb8e-4ef9-8408-f772813cfb05.JPG" alt="drawing" width="400"/>
+
+
+
+
 
 
