@@ -48,5 +48,3 @@ The result shows the synchronization between Drone and Turtlebot. The turtlebot 
 
 
 
-
-
